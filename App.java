@@ -1,5 +1,3 @@
-package projectname.project1;
-
 /**
  * Hello world!
  *
